@@ -1,1 +1,1 @@
-# rental-camera-laravel
+# rental-camera-codeigniter3
